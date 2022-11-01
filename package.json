@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/panoplyio/dbstream-memory",
   "devDependencies": {
-    "mocha": "^1.21.0"
+    "mocha": "^10.1.0"
   },
   "dependencies": {
     "dbstream": "git+https://github.com/panoplyio/dbstream#v1.0.3",
